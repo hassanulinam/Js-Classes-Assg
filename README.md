@@ -1,5 +1,5 @@
 # Js-Classes-Assg
-this task was intended to get hands-on experience with JS-classes
+
 
 
 
